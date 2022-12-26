@@ -6,4 +6,5 @@
 - 📫 How to reach me -> rmznkrts74@gmail.com
 - 🐦Twitter-> twitter.com/rmznkrts74
 - Linkedin -> https://www.linkedin.com/in/ramazan-karatas-anku-ceng/
--![programmer](https://user-images.githubusercontent.com/92362712/209556148-677fc94d-e15b-4074-a1c7-31560f48196e.gif)
+
+![programmer](https://user-images.githubusercontent.com/92362712/209556148-677fc94d-e15b-4074-a1c7-31560f48196e.gif)
